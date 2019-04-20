@@ -4,7 +4,7 @@ Table of Contents
 =================
 
   * [Baba Ghanouj](#baba-ghanouj)
-  * [Ethiopian Spicy Lentil Stew](#ethiopian-stew)
+  * [Ethiopian Spicy Lentil Stew - Instant Pot](#ethiopian-stew)
   * [Berbere Spice Blend](#berbere-spice)
   * [Instant Pot Turkey Chili Verde](#chili-verde)
   * [Pressure Cooker Coconut Curry Chicken](#coconut-curry-chichen)

@@ -1,5 +1,16 @@
 # Recipes
 
+Table of Contents
+=================
+
+  * [Baba Ghanouj](#baba-ghanouj)
+  * [Ethiopian Spicy Lentil Stew](#ethiopian-stew)
+  * [Berbere Spice Blend](#berbere-spice)
+  * [Instant Pot Turkey Chili Verde](#chili-verde)
+  * [Pressure Cooker Coconut Curry Chicken](#coconut-curry-chichen)
+  * [Punjabi Channa](#punjabi-channa)
+  * [Sheet-Pan Tostadas With Black Beans and Peppers](#sheet-pan-tostadas)
+
 ## Baba Ghanouj
 
 Created Tuesday 09 April 2019

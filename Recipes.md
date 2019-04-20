@@ -4,12 +4,12 @@ Table of Contents
 =================
 
   * [Baba Ghanouj](#baba-ghanouj)
-  * [Ethiopian Spicy Lentil Stew - Instant Pot](#ethiopian-stew)
-  * [Berbere Spice Blend](#berbere-spice)
-  * [Instant Pot Turkey Chili Verde](#chili-verde)
-  * [Pressure Cooker Coconut Curry Chicken](#coconut-curry-chichen)
+  * [Ethiopian Spicy Lentil Stew - Instant Pot](#ethiopian-spicy-lentil-stew-in-instant-pot)
+  * [Berbere Spice Blend](#berbere-spice-blend)
+  * [Instant Pot Turkey Chili Verde](#instant-pot-turkey-chili-verde)
+  * [Pressure Cooker Coconut Curry Chicken](#pressure-cooker-coconut-curry-chicken)
   * [Punjabi Channa](#punjabi-channa)
-  * [Sheet-Pan Tostadas With Black Beans and Peppers](#sheet-pan-tostadas)
+  * [Sheet-Pan Tostadas With Black Beans and Peppers](#sheet-pan-tostadas-with-black-beans-and-peppers)
 
 ## Baba Ghanouj
 
@@ -66,7 +66,7 @@ Puree the eggplant in a food processor fitted with the steel blade. Add the lemo
 
 Mound the puree in a bowl or on a platter, and drizzle with olive oil. Sprinkle with parsley. Serve with pita bread.
 
-## Ethiopian Spicy Lentil Stew - Instant Pot
+## Ethiopian Spicy Lentil Stew in Instant Pot
 
 Created Tuesday 09 April 2019
 

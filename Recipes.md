@@ -13,7 +13,7 @@ Source: [NYT](https://cooking.nytimes.com/recipes/1014030-baba-ghanouj)
 
 As sesame tahini sits, the oil separates, so the mixture should be stirred before it’s used. Sesame tahini should be slightly runny — virtually all of the imported brands that I use have this consistency, but domestic versions can be thick and pasty, and a bit flavorless. You can find imported tahini in Mediterranean markets and in many grocery stores. It must be stored in the refrigerator once opened. Baba ghanouj is a signature Middle Eastern grilled eggplant puree enriched with tahini and seasoned with lemon juice and lots of garlic. The dish has a smoky, pungent flavor. Don’t forget to pierce the eggplant before you put it on the grill. You can also grill it inside over a gas flame.
 
-![450](https://static01.nyt.com/images/2014/04/04/dining/baba-ganoush/baba-ganoush-articleLarge.jpg)
+![450](/doc/baba_ghanoush.png)
 
 ### Ingredients
 
@@ -71,7 +71,7 @@ Misir Wot, Ethiopian spicy lentil stew, is a healthy, protein packed dish made w
 
 I enjoy Ethiopian cuisine and couldn’t wait to try my hand on some of the recipes. So I decided to make the Ethiopian Berbere Spice blend that I can use to season lentils, chicken and fish. I used Cayenne pepper, paprika, fenugreek seeds, dried ginger, coriander, cloves and few other spices that I had in my pantry. Here is a more detailed recipe for homemade Berbere Spice Blend.
 
-![450](https://ministryofcurry.com/wp-content/uploads/2017/05/IMG_3256.jpg)
+![450](/doc/ethiopian_lentil_stew.png)
 
 ### Ingredients
 
@@ -133,7 +133,7 @@ Berbere Spice Blend is used as a seasoning in Ethiopian cuisine. It adds warmth 
 
 Berbere represents a blend of cultural and geographic influences from the spices of India to the chile peppers of the New World. My version of this spice mix has hot peppers, black pepper, coriander, fenugreek, ginger, cardamom, nutmeg, allspice and cloves.
 
-![450](https://ministryofcurry.com/wp-content/uploads/2017/05/IMG_2673.jpg)
+![450](/doc/berbere_spice.jpg)
 
 ### Ingredients
 
@@ -175,7 +175,7 @@ Source: [Epicurious](https://www.epicurious.com/recipes/food/views/instant-pot-t
 
 Here’s a lean, green chili that still packs some spicy heat! If you like yours mild, substitute a couple of seeded and chopped green bell peppers for the jalapeño and serrano chiles and omit the cayenne pepper. Serve this hearty stew with grated cheese on top and cornbread, rice, or tortilla chips on the side.
 
-![450](https://assets.epicurious.com/photos/5a94940cee34ba7fdaa9d711/6:4/w_620%2Ch_413/shutterstock_703332823.jpg)
+![450](/doc/chili_verde.png)
 
 ### Ingredients
 
@@ -245,7 +245,7 @@ The highly spiced coconut sauce here is so good, you’ll want to slather it on 
 
 When serving, tell your guests to be aware of the cardamom pods so they don’t accidentally bite into one—or use the ground cardamom instead. And note that brands of garam masala vary in terms of their chile content, so some are hotter than others. If you’re unsure how hot your mix is, add it gradually to the pot, tasting as you go.
 
-![450](https://static01.nyt.com/images/2017/09/25/dining/coconutcurrychicken/coconutcurrychicken-articleLarge.jpg)
+![450](/doc/coconut_curry_chicken.png)
 
 ### Ingredients
 
@@ -318,7 +318,7 @@ An Indian chickpea stew, Punjabi chana is a plain-Jane of a dish: beige beans in
 
 This version of the dish came to The Times from Heather Carlucci-Rodriguez, then the chef and owner of Lassi, a tiny sliver of an Indian cafe in Greenwich Village, since closed.
 
-![450](https://static01.nyt.com/images/2014/04/11/dining/chanapunjabi/chanapunjabi-articleLarge.jpg)
+![450](/doc/punjabi_channa.png)
 
 ### Ingredients
 
@@ -379,7 +379,7 @@ Source: [NYT](https://cooking.nytimes.com/recipes/1019573-sheet-pan-tostadas-wit
 
 In this vegetarian sheet-pan meal, crisp tortillas are topped with chile-laced black beans, sweet roasted peppers, avocado and plenty of crumbled queso fresco or grated Cheddar. A cumin salt, flecked with lime zest and sprinkled on right at the end, adds both brightness and a musky spice flavor. You will need 3 sheet pans for this. If you have only 2, crisp the tortillas in a skillet on the stovetop instead of in the oven.
 
-![450](https://static01.nyt.com/images/2018/09/26/dining/26apperex1/merlin_143721957_ef063c24-9315-46dc-aa85-e1d11bf84a0d-articleLarge.jpg)
+![450](/doc/sheet_pan_tostadas.png)
 
 ### Ingredients
 

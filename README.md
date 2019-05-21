@@ -260,7 +260,7 @@ When serving, tell your guests to be aware of the cardamom pods so they don’t 
 
 ### Ingredients
 
--   ☐ 3 to 4 ripe tomatoes, halved through their equators
+-   ☐ 28 oz can of diced tomatoes, crushed by hand
 
 -   ☐ 3 tablespoons ghee, unsalted butter or safflower oil
 
@@ -288,9 +288,9 @@ When serving, tell your guests to be aware of the cardamom pods so they don’t 
 
 -   ☐ ¼ teaspoon black pepper
 
--   ☐ 2 ½ pounds boneless, skinless chicken thighs, cut into 1-inch chunks
+-   ☐ 2 ½ pounds boneless, skinless chicken thighs
 
--   ☐ 1 to 2 teaspoons garam masala, to taste
+-   ☐ 2 teaspoons garam masala
 
 -   ☐ ½ cup canned unsweetened coconut milk
 
@@ -304,7 +304,7 @@ When serving, tell your guests to be aware of the cardamom pods so they don’t 
 
 #### Step 1
 
-Set a box grater over a bowl. Starting with their cut sides, grate the tomatoes through the large holes of the box grater so the tomato pulp falls into the bowl. Discard the skins. Measure out 2 cups of tomato purée.
+Transfer diced tomatoes to a bowl and crush by hand until no large chunks remain.
 
 #### Step 2
 
@@ -312,7 +312,7 @@ Using the sauté function, heat the ghee and the coconut oil in the pressure coo
 
 #### Step 3
 
-Add the chicken to the sauce, cover and cook on low pressure for 4 minutes. Let the pressure release naturally. If the sauce seems too thin, use a slotted spoon to transfer the chicken to a bowl and then simmer the sauce on the sauté setting until it has thickened to taste. (Note that the coconut milk will thin the sauce down further.) Stir in the garam masala and the coconut milk, and let the curry sit for 20 minutes for the flavors to meld. Serve with the rice and yogurt, if desired. Garnish with cilantro.
+Add the chicken to the sauce, cover and cook on high pressure for 15 minutes. Let the pressure release naturally for 10 minutes. Using a slotted spoon, transfer the chicken to a plate. Using two forks shred the chicken into thin strings. If the sauce seems too thin, simmer the sauce on the sauté setting until it has thickened to taste. (Note that the coconut milk will thin the sauce down further.) Stir in the  shredded chicken, garam masala and the coconut milk, and let the curry sit for 20 minutes for the flavors to meld. Serve with the rice and yogurt, if desired. Garnish with cilantro.
 
 ## Punjabi Channa
 

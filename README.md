@@ -6,6 +6,7 @@ Table of Contents
   * [Baba Ghanouj](#baba-ghanouj)
   * [Ethiopian Spicy Lentil Stew - Instant Pot](#ethiopian-spicy-lentil-stew-in-instant-pot)
   * [Berbere Spice Blend](#berbere-spice-blend)
+  * [Instant Pot Chili](#instant-pot-chili)
   * [Instant Pot Turkey Chili Verde](#instant-pot-turkey-chili-verde)
   * [Pressure Cooker Coconut Curry Chicken](#pressure-cooker-coconut-curry-chicken)
   * [Punjabi Channa](#punjabi-channa)
@@ -31,23 +32,23 @@ As sesame tahini sits, the oil separates, so the mixture should be stirred befor
 
 **FOR THE BABA GANOUSH**
 
--   ☐ 2 pounds eggplant, preferably small eggplants
+- [ ] 2 pounds eggplant, preferably small eggplants
 
--   ☐ ¼ cup freshly squeezed lemon juice (more to taste)
+- [ ] ¼ cup freshly squeezed lemon juice (more to taste)
 
--   ☐ ¼ cup sesame tahini, stirred if oil has separated out
+- [ ] ¼ cup sesame tahini, stirred if oil has separated out
 
--   ☐ 1 to 2 tablespoons plain low-fat yogurt, as needed
+- [ ] 1 to 2 tablespoons plain low-fat yogurt, as needed
 
--   ☐ 2 garlic cloves, cut in half, green shoots removed
+- [ ] 2 garlic cloves, cut in half, green shoots removed
 
--   ☐ Salt to taste
+- [ ] Salt to taste
 
 **FOR THE GARNISH**
 
--   ☐ Extra-virgin olive oil
+- [ ] Extra-virgin olive oil
 
--   ☐ Chopped flat-leaf parsley
+- [ ] Chopped flat-leaf parsley
 
 ### Preparation
 
@@ -87,25 +88,25 @@ I enjoy Ethiopian cuisine and couldn’t wait to try my hand on some of the reci
 
 ### Ingredients
 
--   ☐ 1 cup split red lentils
+- [ ] 1 cup split red lentils
 
--   ☐ 2 tablespoons olive oil
+- [ ] 2 tablespoons olive oil
 
--   ☐ 1 medium red onion diced
+- [ ] 1 medium red onion diced
 
--   ☐ 1 teaspoon fresh ginger grated
+- [ ] 1 teaspoon fresh ginger grated
 
--   ☐ 4 cloves garlic minced
+- [ ] 4 cloves garlic minced
 
--   ☐ 1-2 tablespoon berbere spice blend
+- [ ] 1-2 tablespoon berbere spice blend
 
--   ☐ 1 teaspoon salt
+- [ ] 1 teaspoon salt
 
--   ☐ 2-3 cups water divided
+- [ ] 2-3 cups water divided
 
--   ☐ 2 tablespoons cilantro chopped (optional)
+- [ ] 2 tablespoons cilantro chopped (optional)
 
--   ☐ 1/2 lime
+- [ ] 1/2 lime
 
 ### Preparation
 
@@ -149,23 +150,23 @@ Berbere represents a blend of cultural and geographic influences from the spices
 
 ### Ingredients
 
--   ☐ 2 tablespoons cayenne pepper
+- [ ] 2 tablespoons cayenne pepper
 
--   ☐ 5 teaspoons paprika
+- [ ] 5 teaspoons paprika
 
--   ☐ 1 teaspoon whole coriander
+- [ ] 1 teaspoon whole coriander
 
--   ☐ 1 teaspoon whole fenugreek seeds
+- [ ] 1 teaspoon whole fenugreek seeds
 
--   ☐ 1 teaspoon ground ginger
+- [ ] 1 teaspoon ground ginger
 
--   ☐ 1 teaspoon ground cardamom
+- [ ] 1 teaspoon ground cardamom
 
--   ☐ 1/4 teaspoon ground nutmeg
+- [ ] 1/4 teaspoon ground nutmeg
 
--   ☐ 1/4 teaspoon ground allspice
+- [ ] 1/4 teaspoon ground allspice
 
--   ☐ 1/4 teaspoon ground cloves
+- [ ] 1/4 teaspoon ground cloves
 
 ### Preparation
 
@@ -176,6 +177,59 @@ Lightly roast coriander seeds and fenugreek seeds. Allow to cool and then grind.
 #### Step 2
 
 Mix with rest of the spices and keep in an airtight container. Makes about 4 tablespoon of spice mix.
+
+## Instant Pot Chili
+
+Created Tuesday 09 July 2019
+
+Source: [Damn Delicious](https://damndelicious.net/2018/05/12/the-best-instant-pot-chili/)
+
+### Description
+
+So chunky, hearty, and comforting! This will be the BEST chili you will have in your entire life – I PROMISE! And it is so stinking easy with such minimal effort with the help of your pressure cooker. Simply throw everything right in and let it do all the work for you!
+
+![450](/doc/instant-pot-chili.jpg)
+
+### Ingredients
+
+- [ ] 1 1/2 tablespoons canola oil
+- [ ] 2 pounds 85/15 ground beef
+- [ ] 4 cloves garlic, minced
+- [ ] 1 medium sweet onion, diced
+- [ ] 1 red bell pepper, diced
+- [ ] 1 poblano chili, minced
+- [ ] 3 tablespoons tomato paste
+- [ ] 3 tablespoons chili powder
+- [ ] 2 teaspoons smoked paprika
+- [ ] 2 teaspoons dried oregano
+- [ ] 2 teaspoons cocoa powder
+- [ ] 1 1/2 teaspoons ground cumin
+- [ ] 1 (12-ounce) can lager or pilsner beer
+- [ ] 1 1/2 cups beef stock
+- [ ] 2 (10.75-ounce) cans tomato puree
+- [ ] 2 (15-ounce) cans black beans, drained and rinsed
+- [ ] Kosher salt and freshly ground black pepper, to taste
+- [ ] 1/4 cup chopped fresh cilantro leaves
+- [ ] 1/4 cup sour cream
+- [ ] 1/4 cup shredded cheddar cheese
+
+### Preparation
+
+#### Step 1
+
+Set a 6-qt Instant Pot® to the high saute setting. Heat canola oil; add beef and cook until beef has browned, about 3-5 minutes, making sure to crumble the beef as it cooks. Drain excess fat and set aside.
+
+#### Step 2
+
+Add garlic, onion, bell pepper and chili to the Instant Pot®. Cook, stirring occasionally, until tender, about 4-6 minutes. Stir in tomato paste, chili powder, paprika, oregano, cocoa powder and cumin.
+
+#### Step 3
+
+Stir in beer, scraping any browned bits from the bottom of the pot. Stir in beef stock, tomato puree, black beans and ground beef; season with salt and pepper, to taste. Select manual setting; adjust pressure to high, and set time for 18 minutes. When finished cooking, quick-release pressure according to manufacturer’s directions.
+
+#### Step 4
+
+Stir in cilantro; season with salt and pepper, to taste. Serve immediately, garnished with sour cream and cheese, if desired.
 
 ## Instant Pot Turkey Chili Verde
 
@@ -191,37 +245,37 @@ Here’s a lean, green chili that still packs some spicy heat! If you like yours
 
 ### Ingredients
 
--   ☐ 2 tablespoons olive oil
+- [ ] 2 tablespoons olive oil
 
--   ☐ 1 pound ground turkey (93 percent lean)
+- [ ] 1 pound ground turkey (93 percent lean)
 
--   ☐ 1 yellow onion, diced
+- [ ] 1 yellow onion, diced
 
--   ☐ 2 poblano or Anaheim chiles, diced
+- [ ] 2 poblano or Anaheim chiles, diced
 
--   ☐ 2 jalapeño chiles, diced
+- [ ] 2 jalapeño chiles, diced
 
--   ☐ 2 serrano chiles, diced
+- [ ] 2 serrano chiles, diced
 
--   ☐ 3 cloves garlic, chopped
+- [ ] 3 cloves garlic, chopped
 
--   ☐ 1 teaspoon kosher salt
+- [ ] 1 teaspoon kosher salt
 
--   ☐ 1 teaspoon dried oregano
+- [ ] 1 teaspoon dried oregano
 
--   ☐ 1 teaspoon ground cumin
+- [ ] 1 teaspoon ground cumin
 
--   ☐ 1/4 teaspoon cayenne pepper
+- [ ] 1/4 teaspoon cayenne pepper
 
--   ☐ 2 (15-ounce) cans pinto beans, rinsed and drained
+- [ ] 2 (15-ounce) cans pinto beans, rinsed and drained
 
--   ☐ 1 (12-ounce) jar Mexican-style salsa verde (tomatillo based)
+- [ ] 1 (12-ounce) jar Mexican-style salsa verde (tomatillo based)
 
--   ☐ 1/2 cup low-sodium chicken broth
+- [ ] 1/2 cup low-sodium chicken broth
 
--   ☐ 1/4 cup chopped fresh cilantro
+- [ ] 1/4 cup chopped fresh cilantro
 
--   ☐ Grated Monterey Jack cheese, for serving
+- [ ] Grated Monterey Jack cheese, for serving
 
 ### Preparation
 
@@ -261,45 +315,45 @@ When serving, tell your guests to be aware of the cardamom pods so they don’t 
 
 ### Ingredients
 
--   ☐ 28 oz can of diced tomatoes, crushed by hand
+- [ ] 28 oz can of diced tomatoes, crushed by hand
 
--   ☐ 3 tablespoons ghee, unsalted butter or safflower oil
+- [ ] 3 tablespoons ghee, unsalted butter or safflower oil
 
--   ☐ 3 tablespoons virgin coconut oil
+- [ ] 3 tablespoons virgin coconut oil
 
--   ☐ 2 cups finely chopped onions
+- [ ] 2 cups finely chopped onions
 
--   ☐ 6 garlic cloves, grated on a Microplane or minced
+- [ ] 6 garlic cloves, grated on a Microplane or minced
 
--   ☐ 2 tablespoons grated peeled fresh ginger
+- [ ] 2 tablespoons grated peeled fresh ginger
 
--   ☐ 1 teaspoon cumin seeds
+- [ ] 1 teaspoon cumin seeds
 
--   ☐ 1 3-inch cinnamon stick or 1/2 teaspoon ground cinnamon
+- [ ] 1 3-inch cinnamon stick or 1/2 teaspoon ground cinnamon
 
--   ☐ 8 cardamom pods, lightly crushed with the flat side of a knife, or 1 teaspoon ground cardamom
+- [ ] 8 cardamom pods, lightly crushed with the flat side of a knife, or 1 teaspoon ground cardamom
 
--   ☐ 2 teaspoons ground coriander
+- [ ] 2 teaspoons ground coriander
 
--   ☐ 1 tablespoon kosher salt
+- [ ] 1 tablespoon kosher salt
 
--   ☐ 1 teaspoon ground turmeric
+- [ ] 1 teaspoon ground turmeric
 
--   ☐ ¼ teaspoon crushed red pepper flakes
+- [ ] ¼ teaspoon crushed red pepper flakes
 
--   ☐ ¼ teaspoon black pepper
+- [ ] ¼ teaspoon black pepper
 
--   ☐ 2 ½ pounds boneless, skinless chicken thighs
+- [ ] 2 ½ pounds boneless, skinless chicken thighs
 
--   ☐ 2 teaspoons garam masala
+- [ ] 2 teaspoons garam masala
 
--   ☐ ½ cup canned unsweetened coconut milk
+- [ ] ½ cup canned unsweetened coconut milk
 
--   ☐ Cooked basmati rice, for serving (optional)
+- [ ] Cooked basmati rice, for serving (optional)
 
--   ☐ Plain yogurt, for serving (optional)
+- [ ] Plain yogurt, for serving (optional)
 
--   ☐ 3 tablespoons finely chopped fresh cilantro, for garnish
+- [ ] 3 tablespoons finely chopped fresh cilantro, for garnish
 
 ### Preparation
 
@@ -334,35 +388,35 @@ This version of the dish came to The Times from Heather Carlucci-Rodriguez, then
 
 ### Ingredients
 
--   ☐ 1 tablespoon canola oil or other vegetable oil
+- [ ] 1 tablespoon canola oil or other vegetable oil
 
--   ☐ 1 medium onion, chopped
+- [ ] 1 medium onion, chopped
 
--   ☐ 2 teaspoons minced garlic
+- [ ] 2 teaspoons minced garlic
 
--   ☐ 1 teaspoon minced ginger
+- [ ] 1 teaspoon minced ginger
 
--   ☐ 1 small Thai bird chili, chopped
+- [ ] 1 small Thai bird chili, chopped
 
--   ☐ 2 large tomatoes, chopped
+- [ ] 2 large tomatoes, chopped
 
--   ☐ 1 ½ teaspoons paprika
+- [ ] 1 ½ teaspoons paprika
 
--   ☐ 1 teaspoon salt, or as needed
+- [ ] 1 teaspoon salt, or as needed
 
--   ☐ 1 teaspoon ground coriander
+- [ ] 1 teaspoon ground coriander
 
--   ☐ ½ teaspoon garam masala
+- [ ] ½ teaspoon garam masala
 
--   ☐ ¼ teaspoon turmeric
+- [ ] ¼ teaspoon turmeric
 
--   ☐ 1 teaspoon freshly squeezed lemon juice
+- [ ] 1 teaspoon freshly squeezed lemon juice
 
--   ☐ 2 15-ounce cans chickpeas, drained
+- [ ] 2 15-ounce cans chickpeas, drained
 
--   ☐ 2 tablespoons minced cilantro
+- [ ] 2 tablespoons minced cilantro
 
--   ☐ Cooked rice for serving (optional)
+- [ ] Cooked rice for serving (optional)
 
 ### Preparation
 
@@ -470,39 +524,39 @@ In this vegetarian sheet-pan meal, crisp tortillas are topped with chile-laced b
 
 ### Ingredients
 
--   ☐ 3 medium bell peppers, thinly sliced (preferably at least one red and one yellow)
+- [ ] 3 medium bell peppers, thinly sliced (preferably at least one red and one yellow)
 
--   ☐ 1 medium yellow onion, sliced
+- [ ] 1 medium yellow onion, sliced
 
--   ☐ ½ cup extra-virgin olive oil, plus more as needed
+- [ ] ½ cup extra-virgin olive oil, plus more as needed
 
--   ☐ 2 teaspoons kosher salt, plus more as needed
+- [ ] 2 teaspoons kosher salt, plus more as needed
 
--   ☐ 1 tablespoon chopped fresh sage
+- [ ] 1 tablespoon chopped fresh sage
 
--   ☐ 4 thyme sprigs
+- [ ] 4 thyme sprigs
 
--   ☐ 2 (14- to 16-ounce) cans black beans, drained
+- [ ] 2 (14- to 16-ounce) cans black beans, drained
 
--   ☐ 1 cup canned diced tomatoes with their liquid
+- [ ] 1 cup canned diced tomatoes with their liquid
 
--   ☐ 1 chipotle chile in adobo, chopped, plus 1 teaspoon adobo sauce
+- [ ] 1 chipotle chile in adobo, chopped, plus 1 teaspoon adobo sauce
 
--   ☐ 2 large garlic cloves, finely grated or minced
+- [ ] 2 large garlic cloves, finely grated or minced
 
--   ☐ 1 teaspoon dried oregano
+- [ ] 1 teaspoon dried oregano
 
--   ☐ ¾ teaspoon ground cumin
+- [ ] ¾ teaspoon ground cumin
 
--   ☐ 8 (6-inch) corn tortillas
+- [ ] 8 (6-inch) corn tortillas
 
--   ☐ 1 lime
+- [ ] 1 lime
 
--   ☐ Sliced avocado, for serving
+- [ ] Sliced avocado, for serving
 
--   ☐ Crumbled queso fresco or grated white Cheddar, for serving (optional)
+- [ ] Crumbled queso fresco or grated white Cheddar, for serving (optional)
 
--   ☐ Chopped cilantro leaves, for serving
+- [ ] Chopped cilantro leaves, for serving
 
 ### Preparation
 

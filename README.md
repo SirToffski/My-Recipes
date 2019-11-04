@@ -4,6 +4,7 @@ Table of Contents
 =================
 
   * [Baba Ghanouj](#baba-ghanouj)
+  * [Chicken Soup](#chicken-soup)
   * [Ethiopian Spicy Lentil Stew - Instant Pot](#ethiopian-spicy-lentil-stew-in-instant-pot)
   * [Berbere Spice Blend](#berbere-spice-blend)
   * [Instant Pot Chili](#instant-pot-chili)
@@ -76,7 +77,7 @@ Source: [Epicurious](https://www.epicurious.com/recipes/member/views/the-best-ch
 
 ### Description
 
-Cook your soup in either a good quality heavy aluminum stock pot or, and I prefer this, a heavy duty cast iron pot, when I make it I use an 8 quart cast iron pot. One thing I discovered is that if you keep the soup in the cast iron pot for several days as you use the leftovers it gets discolored by the cast iron. A little butter or oil (enough to coat the bottom of your pot so your mirepoux doesnt stick).
+Cook your soup in either a good quality heavy aluminum stock pot or, and I prefer this, a heavy duty cast iron pot, when I make it I use an 8 quart cast iron pot. One thing I discovered is that if you keep the soup in the cast iron pot for several days as you use the leftovers it gets discolored by the cast iron. A little butter or oil (enough to coat the bottom of your pot so your mirepoux doesn't stick).
 
 ### Ingredients
 

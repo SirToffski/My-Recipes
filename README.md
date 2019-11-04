@@ -14,6 +14,11 @@ Table of Contents
   * [Rice Cooker Chicken Biriyani with Saffron Cream](#rice-cooker-chicken-biriyani-with-saffron-cream)
   * [Sheet-Pan Tostadas With Black Beans and Peppers](#sheet-pan-tostadas-with-black-beans-and-peppers)
 
+## Disclaimer
+
+    The recipes in this repository were not authored by myself. Every recipe has a source link to the original article. The sole purpose of the repository is to aggregate my favourite recipes on one place.
+
+
 ## Baba Ghanouj
 
 Created Tuesday 09 April 2019

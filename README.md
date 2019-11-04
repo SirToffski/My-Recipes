@@ -19,7 +19,7 @@ Table of Contents
     The recipes in this repository were not authored by myself. 
     Every recipe has a source link to the original article. 
     The sole purpose of the repository is to aggregate my 
-    favourite recipes on one place.
+    favourite recipes in one place.
 
 
 ## Baba Ghanouj

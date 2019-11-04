@@ -68,6 +68,39 @@ Puree the eggplant in a food processor fitted with the steel blade. Add the lemo
 
 Mound the puree in a bowl or on a platter, and drizzle with olive oil. Sprinkle with parsley. Serve with pita bread.
 
+## Chicken Soup
+
+Created Monday 04 November 2019
+
+Source: [Epicurious](https://www.epicurious.com/recipes/member/views/the-best-chicken-soup-in-the-world-50058187)
+
+### Description
+
+Cook your soup in either a good quality heavy aluminum stock pot or, and I prefer this, a heavy duty cast iron pot, when I make it I use an 8 quart cast iron pot. One thing I discovered is that if you keep the soup in the cast iron pot for several days as you use the leftovers it gets discolored by the cast iron. A little butter or oil (enough to coat the bottom of your pot so your mirepoux doesnt stick).
+
+### Ingredients
+
+- [ ] 1 Whole Chicken or ideally 1 chicken carcass and 1 whole chicken
+- [ ] 1 Cup Onion
+- [ ] 1 Cup Celery
+- [ ] 1 Cup Carrots - Remember this is your mirepoux, the exact amount is not all that important what is important is the proportion, it should all be equal parts.
+- [ ] 2 Cups White Wine - Remember the rule for cooking with wine, if you wouldn't drink it at the table you shouldn't cook with it.
+- [ ] 8-12 Cups cold water depending on the size of the pot and the size of the chicken
+- [ ] 4-6 Cloves Garlic
+- [ ] 1-2 TBSP Oregano
+- [ ] 1-2 TBSP Thyme
+- [ ] 1-2 TBSP Salt
+- [ ] 1-2 TBSP Pepper
+- [ ] 1-2 Large Tomatoes, Chopped
+- [ ] 1-2 Cups cooked of your starch, could be rice, could be pasta, could be beans could be potatoes but that would change the whole character of your soup so if you want to use potatoes use with caution.
+- [ ] Optional: ½ Pound of chopped mushrooms I like to use baby bellas and I brown them in oil prior to adding them in the finishing the soup step, but any mushrooms you like would work so long as you don't add them too early, if you don't like mushrooms feel free to omit them and it won't be a problem.
+- [ ] Optional: Some form of hot pepper or pepper powder to make it more interesting, I like to use peppers in the preparation of the starch so that the flavor in the finished soup is subtle, if you want a stronger pepper flavor try adding a Habanero or Bhut Jolokia pepper minced to the stock mixture. As with the mushrooms if you don't like hot food feel free to omit the peppers and you will still have great soup.
+
+### Preparation
+
+Prepare the Stock Prepare a mirepoux, which is equal parts chopped onion, celery, and carrots if you have forgotten; then heat it in the stock pot in the oil until the onions are brown, stirring frequently, add the garlic, the wine, the tomatoes, place the chicken (or carcass) in the pot and add enough water to come ¾ to 7/8 of the way to the top of the pot. Add salt and pepper to taste and add the oregano and thyme. Bring the pot to heat, and simmer for at least two hours, the longer the better. Prepare your starch to taste, preferably use 1-2 cups of stock from your pot to cook it in. To re-volumize the soup add the same amount of liquid you took out but make it ½ white wine and ½ cold water. Finish the Soup After your stock is complete take the chicken (or carcass) out, and separate the meat from the bones and gristle. If using a carcass for the stock add your complete chicken and simmer for 2 more hours, then perform this step. Reincorporate the chicken meat and add your starch to the pot and if using mushrooms, add them now and correct seasonings as necessary, then simmer for at least 30 minutes together. Serve hot.
+
+
 ## Ethiopian Spicy Lentil Stew in Instant Pot
 
 Created Tuesday 09 April 2019
